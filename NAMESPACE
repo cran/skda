@@ -1,0 +1,4 @@
+useDynLib(skda)
+
+export(skda, predprob, cvskda)
+

@@ -1,0 +1,13 @@
+d225a9f60254e76c6d866219689d5081 *DESCRIPTION
+a0376ce2f40fa191bf9e28835e0efc6c *NAMESPACE
+b50f183d05ffd573d6b5552d97c3197e *R/skdarcode.r
+007ed526fb6160384e3f7ce92d7ddfc8 *demo/00Index
+c8717f055c1796ea850758317cceb965 *demo/cvskda.R
+c8717f055c1796ea850758317cceb965 *demo/skda.R
+735e6f02d06b4c573168f620a066023c *man/cvskda.Rd
+64b853314ec42118c3dbd6cba41ab4f9 *man/predprob.Rd
+cfff2f50731e010da691ebd534426b1e *man/skda.Rd
+3548e65a132896bbcf7017a1b8c4752c *src/fmin.c
+cfe7571ce16b4b7d6c777fef19e4b69b *src/fmin.h
+db6647643943551392bd8d4d2add6683 *src/skda.c
+d4b5c9320fb43ab0de5c59da9d9ac27c *src/skda.h
